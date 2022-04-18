@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/RnPRNP5ICPl6M/giphy.gif" width="900" height="378" />
+<img src="https://media.giphy.com/media/RnPRNP5ICPl6M/giphy.gif" width="600" height="252" />
 
 <!--
 **janskwr/janskwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
